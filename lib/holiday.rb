@@ -85,7 +85,7 @@ def all_holidays_with_bbq(holiday_hash)
       holiday_w_bbq << holiday_name
       holiday_w_bbq  
        
-   binding.pry 
+   #binding.pry 
    
     # holidays
     #season.each do |key, value|
